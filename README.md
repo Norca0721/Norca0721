@@ -8,7 +8,7 @@
 
 <!--[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=norca0721&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=norca0721&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)-->
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=93588398&image_size=auto&color_scheme=dark"
